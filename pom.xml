@@ -64,7 +64,7 @@
 						<version>${version.war.plugin}</version>
 						<configuration>
 							<outputDirectory>deployments</outputDirectory>
-							<warName>example</warName>
+							<warName>ROOT</warName>
 						</configuration>
 					</plugin>
 				</plugins>
